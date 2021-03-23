@@ -6,5 +6,7 @@ Reader of this code is expected to analyze the code to get the CRUX of it and th
 To use the code, just open "index.html" on browser.\
 The below webpage dont work as of now...and now i have switched to AMAZON AWS service to host my website.\
 https://piyushsawarkar.000webhostapp.com/ --> try having a look at my first hosted website\
+The AWS hosted site address is:\
+http://3.134.111.29/
 Finally\
 Happy Coding.... :-)
